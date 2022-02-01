@@ -12,7 +12,6 @@
     background-size:100% 80% ;
     background-repeat: no-repeat;
     background-color: #DCDCDC;  
-
 }
 
 .nav{
@@ -20,7 +19,6 @@
     height: 60px;
     display: flex;
     padding-top: 20px;
-
 }
 
 #nav1{
@@ -110,6 +108,31 @@ button{
     background-color:transparent;
     border: 1px solid whitesmoke;
 }
+
+.cont3{
+    display: inline-flex;
+    width: 60%;
+    height:20% ;
+    margin: 50px 0px 0 250px;
+    justify-content: space-between;
+}
+
+.fox{
+    height: 100%;
+    text-align: justify;
+    padding: 20px;
+    background-color: whitesmoke;
+    border: 1px solid black;
+    margin-right: 20px;
+
+}
+
+#fox3{
+    background-color:#23A6F0 ;
+    margin-right: 0;
+}
+
+
 
 
 
