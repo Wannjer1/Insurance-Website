@@ -195,15 +195,28 @@ button{
 }
 
 .users{
-    width: 28%;
+    width: 30%;
     background-color: white;
-    padding: 40px;
+    padding: 13px;
     border: 2px solid grey;
     border-radius: 5px;
-
 }
 
+.users i{
+    color: gold;
+}
 
+.vector{
+    width: 65%;
+    margin: 170px 200px 0px 200px;
+    display: flex;
+    background-color: greenyellow;
+    justify-content: space-evenly;
+}
+
+.vector i{
+    font-size: 70px;
+}
 
 
 
