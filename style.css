@@ -218,5 +218,57 @@ button{
     font-size: 70px;
 }
 
+.A{
+    width: 75%;
+    height: 100px;
+    display: flex;
+    margin: 50px 150px 0px 150px;
+    padding: 20px;
+    justify-content: space-evenly;
+    
+}
+
+.A p{
+    width: 60%;
+    text-align: left;
+}
+
+#a{
+    width: 100%;
+    height: 100%;
+    display: inline-flex;
+    justify-content: space-evenly;
+    background-color: coral;
+}
+
+.pricy{
+    margin-top: 80px;
+}
+
+.offers{
+    width: 78%;
+    height: 80vh;
+    margin: 40px 150px 0 150px;
+    display: flex;
+    background-color: cornflowerblue;
+
+}
+
+.o1{
+    width: 35%;
+    height: 95%;
+    padding: 40px;
+    margin-top: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: chartreuse;
+}
+
+#ol2{
+    height: 100%;
+    margin-top: 0;
+}
+
+
 
 
