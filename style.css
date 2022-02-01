@@ -11,7 +11,7 @@
     background-position: contain;
     background-size:100% 80% ;
     background-repeat: no-repeat;
-    background-color: #23A6F0;  
+    background-color: #DCDCDC;  
 
 }
 
@@ -54,14 +54,14 @@
 
 .tag{
     margin-right: 10px;
-    width: 35%;
-    
+    width: 35%; 
 }
 
 #tag{
     text-align: right;
     color: whitesmoke;
     text-decoration: none;
+    margin-top: 15px;
 }
 
 button{
@@ -83,7 +83,7 @@ button{
 .cont2 h1{
     font-size: 4em;
     font-weight: bolder;
-    margin: 20px;
+    margin-top: 40px;
     color: whitesmoke;
 }
 
