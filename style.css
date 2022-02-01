@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: 'montserrat', sans-serif;
 }
 
 .maincont{
@@ -127,6 +128,10 @@ button{
 
 }
 
+.fox h2{
+    margin-top: 10px;
+}
+
 .cont3 i{
     color: cornflowerblue;
 }
@@ -135,6 +140,10 @@ button{
     background-color:#23A6F0 ;
     margin-right: 0;
     color: whitesmoke;
+}
+
+#fox3 i{
+    color: white;
 }
 
 /* This section contains css styling for the section section in the website with value name section1 */
