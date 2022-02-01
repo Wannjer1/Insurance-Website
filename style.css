@@ -176,7 +176,7 @@ button{
     width: 100%;
     height: 300vh;
     text-align: center;
-    background-color: violet;
+    background-color: #DCDCDC;
     padding-top: 60px;
 }
 
@@ -250,7 +250,7 @@ button{
     height: 80vh;
     margin: 40px 150px 0 150px;
     display: flex;
-    background-color: cornflowerblue;
+    /* background-color: cornflowerblue; */
 
 }
 
@@ -261,7 +261,7 @@ button{
     margin-top: 25px;
     border: 1px solid black;
     border-radius: 10px;
-    background-color: chartreuse;
+    /* background-color: chartreuse; */
 }
 
 #ol2{
