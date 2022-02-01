@@ -177,10 +177,11 @@ button{
 
 .user{
     width: 80%;
-    height: 75vh;
+    height: 70vh;
     margin-left: 130px;
     display: flex;
     justify-content: space-evenly;
+    
 }
 
 .users{
@@ -188,13 +189,10 @@ button{
     background-color: white;
     padding: 40px;
     border: 1px solid grey;
-    box-shadow: grey;
+    border-radius: 5px;
+    
 }
 
-#users3{
-    margin-right: 0;
-    background-color: white;
-}
 
 
 
