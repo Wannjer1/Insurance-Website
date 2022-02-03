@@ -291,7 +291,7 @@ input[type=submit]{
     margin-top: 25px;
     border: 1px solid black;
     border-radius: 10px;
-    /* background-color: chartreuse; */
+    
 }
 
 #ol2{
@@ -312,17 +312,24 @@ input[type=submit]{
     display: flex;
     justify-content: center;
     background-color: darkblue;
+    color: #fff;
 }
 
 #branch1{
     width: 50%;
     text-align: justify;
-    background-color: aqua;
+
 }
 
 #branch2{
     width: 30%;
     height: 40%;
+}
+
+#branch1 h2{
+    font-size: larger;
+    font-weight: bolder;
+    font-stretch: expanded;
 }
 
 
