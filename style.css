@@ -186,7 +186,7 @@ button{
 .section2{
     height: 500vh;
     text-align: center;
-    background-color: palevioletred;
+    background-color: lightgray;
     padding-top: 80px;
 }
 
@@ -338,7 +338,6 @@ input[type=submit]{
     display: inline-flex;
     justify-content: space-around;
     align-items: center;
-    background-color: aquamarine;
 }
 
 .info li{
@@ -348,7 +347,21 @@ input[type=submit]{
 
 .info ul li a{
     color: black;
-    border-bottom:hidden;
+    
+}
+
+.info ul:nth-child(5){
+    margin-bottom: 30px;
+}
+
+.info ul li:nth-child(1){
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.info ul li i{
+    margin-right: 10px;
+    color: #23A6F0;
 }
 
 
