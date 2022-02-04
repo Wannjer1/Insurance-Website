@@ -130,16 +130,21 @@ button{
 
 .fox{
     text-align: justify;
-    padding: 30px;
+    padding: 20px;
     background-color: whitesmoke;
     border: none;
     width: 20%;
-    margin-right: -140px;
+    position: relative;
+    bottom: 80px;
 
 }
 
 .fox h2{
     margin-top: 10px;
+}
+
+.fox i{
+    font-size: 30px;
 }
 
 .cont3 i{
