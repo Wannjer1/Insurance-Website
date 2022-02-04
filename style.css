@@ -188,10 +188,11 @@ button{
 /* this section styles the designated section2 of my website */
 
 .section2{
-    height: 460vh;
+    height: 440vh;
     text-align: center;
     background-color: lightgray;
     padding-top: 80px;
+    position:static;
 }
 
 .section2 p{
@@ -356,7 +357,7 @@ input[type=submit]{
 
 .branch{
     margin-top: 100px;
-    height: 25%;
+    height: 20%;
     padding: 80px;
     display: flex;
     justify-content: center;
@@ -383,11 +384,35 @@ input[type=submit]{
     height: 40%;
 }
 
-/* cover image styling */
+/* book appointment section */
 .cover {
-
+    width: 50vw;
+    height: 70vh;
+    background-color: white;
+    display: flex;
+    contain: content;
+    position: relative;
+    bottom: 150px;
+    left: 300px;
 }
 
+.book{
+    text-align: justify;
+    padding: 20px;
+    contain: content;
+}
+
+.book form input{
+    margin: 10px 0 10px 10px;
+    padding: 10px;
+    width: 60vh;
+}
+ 
+#book{
+    background-color: #23A6F0;
+    border-radius: 10px;
+    border: transparent;
+}
 
 .consult{
     display: flex;
