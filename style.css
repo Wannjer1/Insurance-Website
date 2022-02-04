@@ -271,16 +271,34 @@ input[type=submit]{
     font-weight: bolder;
 }
 
+/* pricetag section */
 .pricy{
     margin-top: 80px;
 }
 
 .offers{
     width: 78%;
-    height: 80vh;
+    height: 85vh;
     margin: 40px 150px 0 150px;
     display: flex;
 
+}
+
+.figure{
+    color: #23A6F0;
+    font-size: 2rem;
+}
+
+.figure2{
+    color: #23A6F0;
+
+}
+
+.dollar:before{
+    content: '$';
+    font-size: 15px;
+    vertical-align: top;
+    color: #23A6F0;
 }
 
 .o1{
@@ -290,12 +308,45 @@ input[type=submit]{
     margin-top: 25px;
     border: 1px solid black;
     border-radius: 10px;
+    line-height: 1.2;
     
+}
+
+.o1 ul{
+    list-style: none;
+    text-align: justify;
+}
+
+.o1 ul li{
+    margin-bottom: 10px;
+}
+
+.o1 ul li i{
+    color: green;
+}
+
+.o1 ul li .fas:nth-child(4){
+    color: lightslategray;
+}
+
+.o1 ul li .fas:nth-child(5){
+    color: lightslategray;
 }
 
 #ol2{
     height: 100%;
     margin-top: 0;
+    background-color: #252B42;
+    color: white;
+}
+
+.o1 button{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+#ol2 button{
+    margin-top: 50px;
 }
 
 /* branches section */
@@ -310,25 +361,27 @@ input[type=submit]{
     padding: 80px;
     display: flex;
     justify-content: center;
-    background-color: darkblue;
+    background-color: #252B42;
     color: #fff;
 }
 
 #branch1{
     width: 50%;
+    max-height: fit-content;
     text-align: justify;
 
 }
 
+#branch1 h2{
+    font-size: 2rem;
+    font-weight: bolder;
+    line-height: 1.5;
+    
+} 
+
 #branch2{
     width: 30%;
     height: 40%;
-}
-
-#branch1 h2{
-    font-size: larger;
-    font-weight: bolder;
-    font-stretch: expanded;
 }
 
 /* contact section */
