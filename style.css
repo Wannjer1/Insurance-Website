@@ -184,7 +184,7 @@ button{
 /* this section styles the designated section2 of my website */
 
 .section2{
-    height: 500vh;
+    height: 460vh;
     text-align: center;
     background-color: lightgray;
     padding-top: 80px;
@@ -382,6 +382,19 @@ input[type=submit]{
 #branch2{
     width: 30%;
     height: 40%;
+}
+
+.consult{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+.consult button{
+    margin-right: 80px;
+    padding: 20px;
 }
 
 /* contact section */
