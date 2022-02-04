@@ -1,10 +1,10 @@
 INSURANCE COMPANY WEBSITE
-___
+---
 By Ann Wanjeri
 
 ___
 Description
-___
+---
 This is an insurance company website landing project. It is the second independent project issued while at moringa to gauge understanding on taught HTML and CSS subjects.
 
 Setup Instructions
@@ -12,17 +12,17 @@ Setup Instructions
 
 
 LINK TO PROJECT
-___
+---
 [This is a link to my insurance company landing page](https://github.com/Wannjer1/Insurance-Website "Insurance website")
 
 Technology Used
-___
+---
 * HTML- used to build the structure of the webpage
 * CSS- used to style the webpage
 * FontAwesome- used to source out icons
 
 License
-___
+---
 MIT Copyright (c) 2021 Ann Wanjeri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
