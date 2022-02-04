@@ -184,9 +184,9 @@ button{
 /* this section styles the designated section2 of my website */
 
 .section2{
-    height: 300vh;
+    height: 500vh;
     text-align: center;
-    background-color: #DCDCDC;
+    background-color: palevioletred;
     padding-top: 80px;
 }
 
@@ -280,7 +280,6 @@ input[type=submit]{
     height: 80vh;
     margin: 40px 150px 0 150px;
     display: flex;
-    /* background-color: cornflowerblue; */
 
 }
 
@@ -307,7 +306,7 @@ input[type=submit]{
 
 .branch{
     margin-top: 100px;
-    height: 80vh;
+    height: 25%;
     padding: 80px;
     display: flex;
     justify-content: center;
@@ -332,6 +331,24 @@ input[type=submit]{
     font-stretch: expanded;
 }
 
+/* contact section */
+.info{
+    height: 200px;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aquamarine;
+}
 
+.info li{
+    list-style: none;
+    margin-top: 15px;
+}
+
+.info ul li a{
+    color: black;
+    border-bottom:hidden;
+}
 
 
