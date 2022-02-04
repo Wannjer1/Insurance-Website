@@ -14,7 +14,9 @@ Setup Instructions
 
 Link to Project
 ---
-[This is a link to my insurance company landing page](https://github.com/Wannjer1/Insurance-Website "Insurance website")
+[This is a link to my github](https://github.com/Wannjer1/Insurance-Website)
+
+[This is a link to my github](https://github.com/Wannjer1/Insurance-Website "Insurance website")
 
 
 Technology Used
